@@ -1,0 +1,7 @@
+{
+  "name": "eim",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
